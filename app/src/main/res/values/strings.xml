@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="linearlayout">linearlayout</string>
+    <string name="relativelayout">relativelayout</string>
+    <string name="tablelayout">tablelayout</string>
+    <string name="test1">One,One</string>
+    <string name="test2">One,Two</string>
+    <string name="test3">One,Three</string>
+    <string name="test4">One,Four</string>
+    <string name="test5">Two,One</string>
+    <string name="test6">Two,Two</string>
+    <string name="test7">Two,Three</string>
+    <string name="test8">Two,Four</string>
+    <string name="test9">Three,One</string>
+    <string name="test10">Three,Two</string>
+    <string name="test11">Three,Three</string>
+    <string name="test12">Three,Four</string>
+    <string name="test13">Four,One</string>
+    <string name="test14">Four,Two</string>
+    <string name="test15">Four,Three</string>
+    <string name="test16">Four,Four</string>
+</resources>
