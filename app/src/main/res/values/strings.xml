@@ -19,4 +19,23 @@
     <string name="test14">Four,Two</string>
     <string name="test15">Four,Three</string>
     <string name="test16">Four,Four</string>
+    <string name="message">Open...</string>
+    <string name="message1">Ctrl-O</string>
+    <string name="message2">Save...</string>
+    <string name="message3">Ctrl-S</string>
+    <string name="message4">Save As...</string>
+    <string name="message5">Ctrl-Shift-S</string>
+    <string name="message6">X</string>
+    <string name="message7">Import...</string>
+    <string name="message8">X</string>
+    <string name="message9">Export...</string>
+    <string name="message10">Ctrl-E</string>
+    <string name="message11">Quit</string>
+    <string name="color">RED</string>
+    <string name="color1">ORANGE</string>
+    <string name="color2">YELLOW</string>
+    <string name="color3">GREEN</string>
+    <string name="color4">BLUE</string>
+    <string name="color5">INDIGO</string>
+    <string name="color6">VIOLET</string>
 </resources>
